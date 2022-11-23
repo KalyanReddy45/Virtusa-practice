@@ -1,0 +1,20 @@
+h1{
+    
+    font-family:red;
+    align-items:center;
+    justify-content:center;
+    margin-left:50%;
+}
+.images
+{
+    height:15%;
+    width:auto;
+    display:flex;
+}
+body{
+    background-image: url("hos2.jpg");
+    
+    
+    
+    
+}
